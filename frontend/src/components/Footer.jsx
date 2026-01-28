@@ -42,7 +42,7 @@ const Footer = () => {
               </li>
               <li>
                 <Mail size={18} />
-                <span>hello@raofarmhouse.com</span>
+                <span>raofarmhouse04@gmail.com</span>
               </li>
               <li>
                 <MapPin size={18} />
@@ -50,7 +50,7 @@ const Footer = () => {
               </li>
               <li>
                 <Instagram size={18} />
-                <a href="https://instagram.com/raofarmhouse" target="_blank" rel="noopener noreferrer">@raofarmhouse</a>
+                <a href="https://instagram.com/raofarmhouse" target="_blank" rel="noopener noreferrer">@raofarmhouseisharwal</a>
               </li>
             </ul>
           </div>
@@ -66,7 +66,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; 2025 Rao Farmhouse | Farm Fresh • Organic • Seasonal</p>
+          <p>© 2026 Rao Farmhouse | Farm Fresh • Organic • Seasonal</p>
         </div>
       </div>
     </footer>);

@@ -201,7 +201,7 @@ const Home = () => {
               <p className="body-medium testimonial-text">
                 "Juicy, sweet, and really fresh. Felt like village fruit. Will order again!"
               </p>
-              <p className="body-small customer-name">– Priya S., Chandigarh</p>
+              <p className="body-small customer-name">– Manoj Kumar, Hisar</p>
             </div>
 
             <div className="network-card testimonial-card animated">
@@ -215,7 +215,7 @@ const Home = () => {
               <p className="body-medium testimonial-text">
                 "Finally found organic kinnow without going to the village. Kids loved it!"
               </p>
-              <p className="body-small customer-name">– Rajesh K., Ludhiana</p>
+              <p className="body-small customer-name">– Ramesh Poonia, Siwani</p>
             </div>
 
             <div className="network-card testimonial-card animated">
@@ -229,13 +229,13 @@ const Home = () => {
               <p className="body-medium testimonial-text">
                 "Best quality I've seen. Fresh delivery and reasonable price. Highly recommend!"
               </p>
-              <p className="body-small customer-name">– Simran M., Patiala</p>
+              <p className="body-small customer-name">– Ankit Arora, Bhiwani</p>
             </div>
           </div>
         </div>
       </section>
-    </div>
-  );
+    </div>);
+
 };
 
 export default Home;
